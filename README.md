@@ -9,6 +9,8 @@ missing : S6
 
 btw duos s7 and s13 squads are enhanced by ai cause the quaility was bad
 
+for arena i added s12 since thats all i found but tbh it could be used for all seasons since they look default to me and not specific to the season
+
 ### Are there ltms images?
 
 yes but not all of them only important ones which are 50 ltms (if i wanted to add more it will take alot of time)
