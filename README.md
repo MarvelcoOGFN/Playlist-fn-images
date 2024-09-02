@@ -5,7 +5,9 @@ fortnite playlist images used for custom backends
 
 yes they are, for each season they have there base gamemode images
 
-missing : S7 S6
+missing : S6
+
+btw duos s7 and s13 squads are enhanced by ai cause the quaility was bad
 
 ### Are there ltms images?
 
