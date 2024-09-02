@@ -11,7 +11,7 @@ btw duos s7 and s13 squads are enhanced by ai cause the quaility was bad
 
 ### Are there ltms images?
 
-not yet when i have all of them ill upload them all at once 
+yes but not all of them only important ones which are 50 ltms (if i wanted to add more it will take alot of time)
 
 ## Contribution
 contributions are welcome that will help me get anything if i had smth missing (make sure they are 512x512 or 500x500 for base gamemodes and ltms ahould be for the big tile now what i have found is 1000x563 is good (if you have any img that isnt these sizes send them to me at my discord @Marvelco)
